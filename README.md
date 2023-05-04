@@ -8,6 +8,6 @@ Pourcentage avancement : 100% (terminé)
 
 Participant : Arthur
 
-Consignes: installer les fichiers suivants : sudoku.py, logo.png.
+Consignes: installer les fichiers suivants : sudoku.py, logo.png. Mettre les deux fichiers dans un meme dossier.
 
 Le projet utilise tkinter pour fonctionner : pip install tkinter
